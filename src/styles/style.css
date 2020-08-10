@@ -1,0 +1,156 @@
+#page{
+    position: fixed;
+    
+    
+    
+}
+button{
+    align-self: start;
+       position: relative;
+       left: 35%;
+       right: 25%;
+       margin: 4px;
+       width: 160px;
+       height: 65px;
+       background-color: rgba(250, 234, 145, 0.884);
+}
+
+html {
+	width: 100%;
+	height: 100%;
+    margin: 0;
+}
+body{
+   background-image: url("images/background/pexels-andrew-neel-2312369.jpg");
+   background-attachment: fixed;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 100%;
+	height: 100%;
+	margin: 0;
+    
+    
+}
+
+#titlestyle{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+header{
+    background-color:rgb(255, 228, 194);
+    width: 100%;
+    position: static;
+        
+}
+
+header>h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lemonada', cursive;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+    }
+
+.logo_principal{
+    width: 65px;
+    height: 65px;
+    color: transparent;
+    border-radius: 100%;
+    padding: 5px;
+    right: 5%;
+   
+  
+}
+
+
+
+main{
+    padding-left: 100px;
+    position: static;
+    width: 100%;
+   
+}
+
+main>nav>ul{
+    list-style: none;
+    list-style-type: none;
+  
+}  
+ul>li>a{
+       align-self: start;
+       position: relative;
+       left: 25%;
+       right: 25%;
+       
+}
+
+
+
+
+.img_logo{
+    width: 35px;
+    height: 30px;
+    color: transparent;
+    border-radius: 35%;
+    padding: 3px;
+}
+
+
+footer{
+    opacity: 0.8;
+    position: static;
+    bottom: 5px;
+    padding: 20px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 35%;
+    padding-right: 25%;
+      
+}
+footer > a{
+    align-self: start;
+    position: static;
+    left: 35%;
+    right: 25%;
+}
+
+
+a.link{
+    border: 115px;
+    padding: 15px;
+    color: tomato;
+
+}
+
+a{
+    width: 100%;
+    background-color: transparent;
+    color: tomato;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+    
+}
+
+a:link{
+    background-color: transparent;
+    color: tomato;
+}
+
+a:visited{
+    background-color: transparent;
+    color: tomato;
+}
+
+a:hover{
+    background-color: transparent;
+    color: tomato;
+   
+}
+
+
