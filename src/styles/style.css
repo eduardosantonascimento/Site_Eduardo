@@ -19,6 +19,7 @@ html {
 	width: 100%;
 	height: 100%;
     margin: 0;
+    overflow: hidden;
 }
 body{
    background-image: url("images/background/pexels-andrew-neel-2312369.jpg");
@@ -27,7 +28,8 @@ body{
    background-repeat: no-repeat;
    width: 100%;
 	height: 100%;
-	margin: 0;
+    margin: 0;
+    overflow: hidden;
     
     
 }
